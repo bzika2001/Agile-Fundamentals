@@ -10,3 +10,6 @@ Through this work we have come to vallue:
 - **Working software** over comprehensive documentation
 - **Customer collaboration** over contract negotiation
 - **Responding** to change over following a plant
+
+**uncovering better ways** means learning.
+Learning as an organisation (or a team) on how to get better at developing software.
