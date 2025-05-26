@@ -1,9 +1,12 @@
 
-![Agile fundementals](../images/Agile fundementals.png "Agile fundementals")
-## Capital expenditure (CapEx) versus operational expenditure (OpEx)
+![Agile fundementals](../images/Agile-undementals.png "Agile fundementals")
+# Agile fundamentals and Values
 
-There are two cost when running your physical infrastructure.
-
-### CapEx computing costs 
+### Agile manifesto
 ( *number of resources your are using*)
-- Pay as go model
+We are uncovering better ways of developing software by doing it and helping others do it.
+Through this work we have come to vallue:
+- Individuals and interacts : Over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plant
