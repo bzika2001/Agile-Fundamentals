@@ -6,7 +6,7 @@
 
 
 ## Scrum Framework
-![Scrum Framework](../images/Scrum/05-scrum-framework.png "Scrum Framework")
+![Scrum Framework Overview](../images/scrum/05-scrum-framework.png "Scrum Framework Overview")
 
 ![Scrum Framework](../images/scrum/scrum-framework.png "Scrum Framework")
 
