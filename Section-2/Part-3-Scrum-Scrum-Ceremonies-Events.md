@@ -64,6 +64,24 @@ Scrum defines **5 core events** (ceremonies) that structure the workflow within 
 
 ---
 
+## 6. **Product Backlog Refinement (a.k.a. Backlog Grooming)**
+
+- **Purpose**: Keep the Product Backlog updated and ready for future Sprints
+- **Participants**: Product Owner + Developers (Scrum Master may facilitate)
+- **Time-box**: No fixed time-box, but typically up to 10% of team capacity per Sprint
+- **Key Activities**:
+  - Break down large items (epics) into smaller stories
+  - Add details, estimates, and acceptance criteria
+  - Re-prioritize based on new information
+  - Ensure backlog items are "ready" for Sprint Planning
+
+> Note: While not an official Scrum event, refinement is considered essential for smooth Sprint Planning.
+
+---
+
+> Source: [scrum.org](https://www.scrum.org/resources/introduction-scrum-events)
+
+
 ## 🗂️ Bonus: Product Backlog Refinement (Optional but Recommended)
 
 - **Purpose**: Prepare the backlog for future Sprints
