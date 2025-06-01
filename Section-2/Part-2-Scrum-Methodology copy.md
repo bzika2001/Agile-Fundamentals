@@ -8,12 +8,12 @@
 
 - Scrum is a lightweight Agile framework used to manage and complete complex projects.
 - It relies on **short, time-boxed iterations** called **Sprints**, usually 1–4 weeks long.
-- Core principles: **Transparency**, **Inspection**, and **Adaptation**.
+- Core principles: **Transparency**, **Inspection**, and **Adaptation** TIA.
 - Goal: Deliver working product increments frequently and iteratively.
 
 ---
 
-## 🧭 The 5 Scrum Values
+## 🧭 The 5 Scrum Values (2CFOR)
 
 | Value        | Description                                                               |
 |--------------|---------------------------------------------------------------------------|
@@ -32,7 +32,7 @@
 - Prioritizes items based on stakeholder and customer value
 - Maximizes ROI and ensures the team is building the right thing
 
-### 2. **Scrum Master**
+### 2. **Scrum Master** (True leaders)
 - Acts as a **servant leader**
 - Coaches the team and enforces Scrum practices
 - Removes blockers and facilitates Scrum events
