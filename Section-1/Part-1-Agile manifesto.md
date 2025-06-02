@@ -1,6 +1,6 @@
 
 ![Agile fundementals](../images/Agile-undementals.png "Agile fundementals")
-📀 # Agile fundamentals and Values
+# 🎯Agile fundamentals and Values
 
 ## Agile manifesto
 ( *number of resources your are using*)
