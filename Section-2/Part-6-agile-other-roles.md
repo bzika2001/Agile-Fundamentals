@@ -1,3 +1,4 @@
+![Agile fundementals](../images/Agile-undementals.png "Agile fundementals")
 # Agile Roles in Context: Navigating Organizational Structures
 
 Adopting Agile doesn't always mean a complete overhaul of an organization's structure or titles overnight. Instead, it often involves understanding how existing roles contribute to and interact with the core Agile team roles (Product Owner, Scrum Master, Development Team). This section explains how various common organizational roles fit into an Agile context.
