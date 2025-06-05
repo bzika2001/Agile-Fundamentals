@@ -123,6 +123,7 @@ The **Six General Practices** of Kanban provide the operational foundation to ap
  Make work visible. This is usually done by creating a **Kanban board** with cards and columns that represent workflow stages.
    - Use a Kanban board to show all tasks and their states
    - Columns = workflow stages (To Do, In Progress, Done)
+     
  **💼 As a Delivery Lead:**  
 Encourage transparency. Ensure everyone—from developers to QA—can clearly see the status of every task. Use board columns to match your team’s real process.
 
@@ -132,6 +133,7 @@ Encourage transparency. Ensure everyone—from developers to QA—can clearly se
 Set explicit WIP limits to reduce multitasking, avoid bottlenecks, and encourage the team to finish tasks before starting new ones.
    - Set explicit limits on how many items can be in each column
    - Encourages finishing work before starting new work
+     
 **💼 As a Delivery Lead:**  
 Introduce WIP gradually. Explain that it’s about improving **flow**, not restricting productivity. Help your team balance load and focus.
 
@@ -141,6 +143,7 @@ Introduce WIP gradually. Explain that it’s about improving **flow**, not restr
  Focus on how work items flow through the system. The goal is to make the process smooth and predictable by identifying delays and constraints.
    - Aim for smooth, consistent movement of tasks through the system
    - Measure flow using **Lead Time** and **Cycle Time**
+     
 **💼 As a Delivery Lead:**  
 Monitor **cycle time**, **lead time**, and blockers. Use Azure DevOps analytics or dashboards to identify where work tends to slow down.
 
@@ -151,6 +154,7 @@ Define clear, agreed-upon rules and criteria for how work items progress from on
 
    - Clarify entry/exit criteria for each column
    - Helps team align and improve
+     
 **💼 As a Delivery Lead:**  
 Work with your team to agree on definitions of “Ready,” “In Progress,” and “Done.” Make acceptance criteria and QA requirements visible on cards.
 
@@ -159,6 +163,7 @@ Work with your team to agree on definitions of “Ready,” “In Progress,” a
  Introduce regular cadences for review and improvement, such as daily stand-ups, flow reviews, and retrospectives.
 
    - Use daily standups, retrospectives, reviews—tailored to flow instead of timeboxes
+     
 **💼 As a Delivery Lead:**  
 Facilitate feedback loops with purpose. Use team check-ins to review WIP limits, adjust priorities, and gather ideas for improvement.
 
