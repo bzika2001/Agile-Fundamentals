@@ -10,6 +10,12 @@ Kanban is a **visual workflow management method** used to improve flow, limit WI
 Originally from manufacturing (Toyota), it's now widely used in software, operations, DevOps, and support teams.
 
 ---
+## 💡 Four Basic of Kanban
+
+1. **Start with what you know**
+2. **Agree to persue incremental change**
+3. **Respect current process, roles, responsibilities, titles**
+4. **Encourage acts of leadership at all levels**
 
 ## 💡 Core Principles of Kanban
 
