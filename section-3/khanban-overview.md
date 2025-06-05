@@ -283,7 +283,12 @@ Combine metrics (e.g., Cycle Time + WIP + Throughput) to create **data-backed st
 - Widening “In Progress” band → overloaded team
 
 ---
+## 🛑 Step to Get Started
+ - Step 1:Visualize your work
+ - Step 2:Visualize your work
+ - Step 3:Adapt, monitor, and improve
 
+   
 ## 🛑 Anti-Patterns to Watch For
 
 | Anti-Pattern | Impact |
