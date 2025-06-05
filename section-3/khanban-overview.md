@@ -10,12 +10,40 @@ Kanban is a **visual workflow management method** used to improve flow, limit WI
 Originally from manufacturing (Toyota), it's now widely used in software, operations, DevOps, and support teams.
 
 ---
-## 💡 Four Basic of Kanban
+## 💡 Four Basic Principles of Kanban
 
-1. **Start with what you know**
-2. **Agree to persue incremental change**
-3. **Respect current process, roles, responsibilities, titles**
-4. **Encourage acts of leadership at all levels**
+### 1. **Start with what you know**
+Kanban doesn’t force big, disruptive changes right away. You begin by **mapping your existing workflow**—how work moves from start to finish. This lowers resistance to change and builds trust.
+
+**💼 As a Delivery Lead**:  
+Observe how your team currently works in Azure DevOps. Don’t reinvent the wheel—just start by visualizing existing tasks and processes on a Kanban board. Let the board reflect reality, not some ideal.
+
+---
+
+### 2. **Agree to pursue incremental change**
+Kanban thrives on **continuous improvement** (Kaizen). Instead of overhauling everything at once, you **implement small changes** that incrementally improve flow and delivery speed.
+
+**🧩 Example**:  
+After visualizing your workflow, you might introduce WIP limits. Later, you could tweak swimlanes or re-define “Done” criteria. Each change builds on the last.
+
+**💼 As a Delivery Lead**:  
+Lead retrospectives focused on process tweaks, not big resets. Guide your team to deliver value more often, then build on that progress.
+
+---
+
+### 3. **Respect current process, roles, responsibilities, titles**
+Kanban works with the **current organizational structure**—you don’t need to redefine roles or processes from day one. Developers, QAs, PMs—all keep their roles, while the **workflow becomes transparent and easier to improve**.
+
+**💼 As a Delivery Lead**:  
+Reassure your team that adopting Kanban doesn’t mean losing autonomy or titles. Your role is to facilitate clarity and remove friction—not to dictate structure.
+
+---
+
+### 4. **Encourage acts of leadership at all levels**
+Kanban promotes a culture where **everyone can contribute to improvement**, regardless of seniority. Leadership is not about job titles—it's about **taking initiative and solving problems** collaboratively.
+
+**💼 As a Delivery Lead**:  
+Recognize and celebrate when your team members take initiative—whether that’s flagging bottlenecks, proposing changes, or improving a board column. You set the tone by enabling a safe space for experimentation.
 
 ## 💡 Core Principles of Kanban
 
