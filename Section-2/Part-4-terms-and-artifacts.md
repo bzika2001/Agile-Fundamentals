@@ -110,6 +110,8 @@ Scrum is a flexible framework for developing, delivering, and sustaining complex
 * **Core Idea:** The sum of all completed Product Backlog items from the current Sprint, plus all previous Sprints. It must be usable and potentially shippable.
 * **20% Understanding:** It's the **newest, usable, and valuable slice of the product** available at the end of a Sprint.
 
+A potentially shippable, vertical slice of a solution that is created as part of a Sprint time-box.
+
 ---
 
 ## 👩‍🏫 How to Help Your Team Adopt These Concepts (As a Delivery Lead)
