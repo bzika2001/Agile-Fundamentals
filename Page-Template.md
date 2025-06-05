@@ -1,5 +1,5 @@
 
-![Agile fundementals](../images/Agile-undementals.png "Agile fundementals")
+![Agile fundementals](/images/Agile-undementals.png "Agile fundementals")
 # Agile Crossword Puzzle
 
 
